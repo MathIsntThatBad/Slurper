@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: 07a4160ec31893a4ba4b8b2ff45bb597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2290018268706838580
+    second: fronteffect3_m_0
+  - first:
+      213: 6230359525764409197
+    second: fronteffect3_m_1
+  - first:
+      213: -6963153690780046093
+    second: fronteffect3_m_2
+  - first:
+      213: 1587925742848217401
+    second: fronteffect3_m_3
+  - first:
+      213: -7029519535794456734
+    second: fronteffect3_m_4
+  - first:
+      213: -2840037774439964623
+    second: fronteffect3_m_5
+  - first:
+      213: 3493511453753780618
+    second: fronteffect3_m_6
+  - first:
+      213: 2557011348412293368
+    second: fronteffect3_m_7
+  - first:
+      213: -3236826347646903458
+    second: fronteffect3_m_8
+  - first:
+      213: 1161115473791287219
+    second: fronteffect3_m_9
+  - first:
+      213: -1958526413292559877
+    second: fronteffect3_m_10
+  - first:
+      213: 4747743835941091242
+    second: fronteffect3_m_11
+  - first:
+      213: -3343003435075342744
+    second: fronteffect3_m_12
+  - first:
+      213: -7392560377982845882
+    second: fronteffect3_m_13
+  - first:
+      213: -8283033224175291251
+    second: fronteffect3_m_14
+  - first:
+      213: -3839555881114983174
+    second: fronteffect3_m_15
+  - first:
+      213: 2883689133769461761
+    second: fronteffect3_m_16
+  - first:
+      213: -7010454749031550931
+    second: fronteffect3_m_17
+  - first:
+      213: 6189899504088530581
+    second: fronteffect3_m_18
+  - first:
+      213: -4970218471954782498
+    second: fronteffect3_m_19
+  - first:
+      213: 560030872652031217
+    second: fronteffect3_m_20
+  - first:
+      213: 1152429576361055633
+    second: fronteffect3_m_21
+  - first:
+      213: 3639873104345186895
+    second: fronteffect3_m_22
+  - first:
+      213: 3381371827162337716
+    second: fronteffect3_m_23
+  - first:
+      213: -4137840970207088940
+    second: fronteffect3_m_24
+  - first:
+      213: -7784939235557661986
+    second: fronteffect3_m_25
+  - first:
+      213: 322435376433314058
+    second: fronteffect3_m_26
+  - first:
+      213: 8856107287229187031
+    second: fronteffect3_m_27
+  - first:
+      213: -4499238379875152620
+    second: fronteffect3_m_28
+  - first:
+      213: -1280625311753777390
+    second: fronteffect3_m_29
+  - first:
+      213: 151424411641494972
+    second: fronteffect3_m_30
+  - first:
+      213: -7593994852144106764
+    second: fronteffect3_m_31
+  - first:
+      213: -8698744012999402646
+    second: fronteffect3_m_32
+  - first:
+      213: 1721829040283843123
+    second: fronteffect3_m_33
+  - first:
+      213: -4978960185722639930
+    second: fronteffect3_m_34
+  - first:
+      213: -8612939773686045916
+    second: fronteffect3_m_35
+  - first:
+      213: -4120743680967306968
+    second: fronteffect3_m_36
+  - first:
+      213: 1967643776972160270
+    second: fronteffect3_m_37
+  - first:
+      213: 8355052367797435637
+    second: fronteffect3_m_38
+  - first:
+      213: -6353294917757889187
+    second: fronteffect3_m_39
+  - first:
+      213: -4396061357944742634
+    second: fronteffect3_m_40
+  - first:
+      213: -8063569415648204698
+    second: fronteffect3_m_41
+  - first:
+      213: -3684813625186019032
+    second: fronteffect3_m_42
+  - first:
+      213: -5328166207150118524
+    second: fronteffect3_m_43
+  - first:
+      213: -3028818234316851853
+    second: fronteffect3_m_44
+  - first:
+      213: 4740725402649366166
+    second: fronteffect3_m_45
+  - first:
+      213: 821846429919067873
+    second: fronteffect3_m_46
+  - first:
+      213: -7995503939183372456
+    second: fronteffect3_m_47
+  - first:
+      213: 5031232104396747478
+    second: fronteffect3_m_48
+  - first:
+      213: -8186529620412183364
+    second: fronteffect3_m_49
+  - first:
+      213: -1436204824023333557
+    second: fronteffect3_m_50
+  - first:
+      213: -2050629739344432023
+    second: fronteffect3_m_51
+  - first:
+      213: -3449123599133921259
+    second: fronteffect3_m_52
+  - first:
+      213: 1407926414368964697
+    second: fronteffect3_m_53
+  - first:
+      213: -1927332846523627535
+    second: fronteffect3_m_54
+  - first:
+      213: -3338572244565476238
+    second: fronteffect3_m_55
+  - first:
+      213: 8265674398058128678
+    second: fronteffect3_m_56
+  - first:
+      213: 5941830012363289164
+    second: fronteffect3_m_57
+  - first:
+      213: 3071895137108397227
+    second: fronteffect3_m_58
+  - first:
+      213: 864438331506836187
+    second: fronteffect3_m_59
+  - first:
+      213: 1417118315525038623
+    second: fronteffect3_m_60
+  - first:
+      213: 8586486441990613989
+    second: fronteffect3_m_61
+  - first:
+      213: 9154763049043285869
+    second: fronteffect3_m_62
+  - first:
+      213: -2959207957570226986
+    second: fronteffect3_m_63
+  - first:
+      213: -6658132812904094628
+    second: fronteffect3_m_64
+  - first:
+      213: 5992666297447884391
+    second: fronteffect3_m_65
+  - first:
+      213: -2751380564604497455
+    second: fronteffect3_m_66
+  - first:
+      213: 3366682883683057470
+    second: fronteffect3_m_67
+  - first:
+      213: -4148350506841463507
+    second: fronteffect3_m_68
+  - first:
+      213: -4500987975046884837
+    second: fronteffect3_m_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fronteffect3_m_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 951
+        width: 7
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381d6b7b77c7cf10800000000000000
+      internalID: 2290018268706838580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 7
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67a8249afea67650800000000000000
+      internalID: 6230359525764409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 7
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcea905c98ed5f90800000000000000
+      internalID: -6963153690780046093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 861
+        width: 7
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9319a28cc02790610800000000000000
+      internalID: 1587925742848217401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 853
+        width: 7
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677d47e931227e90800000000000000
+      internalID: -7029519535794456734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_5
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 80
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a0d9f0b82698d0800000000000000
+      internalID: -2840037774439964623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_6
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1007
+        width: 7
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a0c368227b7030800000000000000
+      internalID: 3493511453753780618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 862
+        width: 7
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0e1c416445c7320800000000000000
+      internalID: 2557011348412293368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_8
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 981
+        width: 7
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b91e4169b7413d0800000000000000
+      internalID: -3236826347646903458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_9
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 0
+        width: 7
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bff98e1f5c1d1010800000000000000
+      internalID: 1161115473791287219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 955
+        width: 7
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12a749a9ae1d4e0800000000000000
+      internalID: -1958526413292559877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_11
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 0
+        width: 7
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b1d93ddf53e140800000000000000
+      internalID: 4747743835941091242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_12
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1017
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6c6976144b91d0800000000000000
+      internalID: -3343003435075342744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_13
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1005
+        width: 7
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c74b1f089586990800000000000000
+      internalID: -7392560377982845882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_14
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 481
+        width: 7
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f5420b21cc0d80800000000000000
+      internalID: -8283033224175291251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 7
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af421ead44827bac0800000000000000
+      internalID: -3839555881114983174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 577
+        width: 7
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1009bfc1dfbe40820800000000000000
+      internalID: 2883689133769461761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 827
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20360a7c8cd5be90800000000000000
+      internalID: -7010454749031550931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 512
+        width: 7
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3090bdc0f6e550800000000000000
+      internalID: 6189899504088530581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_19
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 765
+        width: 7
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ec0312ac360bb0800000000000000
+      internalID: -4970218471954782498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_20
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 491
+        width: 7
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42dab8c11a5c700800000000000000
+      internalID: 560030872652031217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_21
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 0
+        width: 7
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19597a708904eff00800000000000000
+      internalID: 1152429576361055633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 42
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f424ef3bd4d638230800000000000000
+      internalID: 3639873104345186895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_23
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 803
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b15683f2cb0dee20800000000000000
+      internalID: 3381371827162337716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_24
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 455
+        width: 7
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deafb19f8f6396c0800000000000000
+      internalID: -4137840970207088940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 7
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a59af20756f390800000000000000
+      internalID: -7784939235557661986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 436
+        width: 7
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b35b3445897400800000000000000
+      internalID: 322435376433314058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 7
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34b04f7a637ea70800000000000000
+      internalID: 8856107287229187031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 537
+        width: 7
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dccbf088e7f81c0800000000000000
+      internalID: -4499238379875152620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 433
+        width: 7
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fca82601e4a3ee0800000000000000
+      internalID: -1280625311753777390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 7
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb63a33b7f91200800000000000000
+      internalID: 151424411641494972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_31
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 372
+        width: 7
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23ecbaae5bc9690800000000000000
+      internalID: -7593994852144106764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_32
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 210
+        width: 7
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b5d19786ad74780800000000000000
+      internalID: -8698744012999402646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_33
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 621
+        width: 7
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af116b36a25e710800000000000000
+      internalID: 1721829040283843123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_34
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 606
+        width: 7
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9603b371e27eab0800000000000000
+      internalID: -4978960185722639930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_35
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 533
+        width: 7
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4232c9db8e0b87880800000000000000
+      internalID: -8612939773686045916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_36
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 453
+        width: 7
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821128d647d20d6c0800000000000000
+      internalID: -4120743680967306968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_37
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 587
+        width: 7
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dfee217997e4b10800000000000000
+      internalID: 1967643776972160270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_38
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 200
+        width: 7
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc3a5e8cdb13f370800000000000000
+      internalID: 8355052367797435637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_39
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 514
+        width: 7
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551fb9feef84d7a0800000000000000
+      internalID: -6353294917757889187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 7
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dd1ec7c7d0ef2c0800000000000000
+      internalID: -4396061357944742634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_41
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 7
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a59ec652781090800000000000000
+      internalID: -8063569415648204698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 7
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8299447e789ecdcc0800000000000000
+      internalID: -3684813625186019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_43
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 532
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a39e701d8e06b0800000000000000
+      internalID: -5328166207150118524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_44
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 168
+        width: 7
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375715efcd977f5d0800000000000000
+      internalID: -3028818234316851853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_45
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 280
+        width: 7
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e0692e2a07ac140800000000000000
+      internalID: 4740725402649366166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_46
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 509
+        width: 7
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eebf3349f8c76b00800000000000000
+      internalID: 821846429919067873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_47
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 244
+        width: 7
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571db087834a0190800000000000000
+      internalID: -7995503939183372456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_48
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 306
+        width: 7
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2fb1d31f682d540800000000000000
+      internalID: 5031232104396747478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 439
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4e103faa936e80800000000000000
+      internalID: -8186529620412183364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_50
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 430
+        width: 7
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4503676253911ce0800000000000000
+      internalID: -1436204824023333557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_51
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 413
+        width: 7
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f584ed13ba83e0800000000000000
+      internalID: -2050629739344432023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_52
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 181
+        width: 7
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b43f5c504220d0800000000000000
+      internalID: -3449123599133921259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_53
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 248
+        width: 7
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9500a564d95f98310800000000000000
+      internalID: 1407926414368964697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_54
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 355
+        width: 7
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7440fccfcb045e0800000000000000
+      internalID: -1927332846523627535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_55
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 377
+        width: 7
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c32b96b320ba1d0800000000000000
+      internalID: -3338572244565476238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_56
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 277
+        width: 7
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625ab45521395b270800000000000000
+      internalID: 8265674398058128678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_57
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c423ba24aee957250800000000000000
+      internalID: 5941830012363289164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 7
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac88920a5091aa20800000000000000
+      internalID: 3071895137108397227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 7
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd242bf151a1ffb00800000000000000
+      internalID: 864438331506836187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 7
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e199899d9aa310800000000000000
+      internalID: 1417118315525038623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 6
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebee830de3592770800000000000000
+      internalID: 8586486441990613989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_62
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 6
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67d8153d704c0f70800000000000000
+      internalID: 9154763049043285869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_63
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 6
+        width: 6
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d474888a08cee6d0800000000000000
+      internalID: -2959207957570226986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_64
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 7
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54aa73ab7f8993a0800000000000000
+      internalID: -6658132812904094628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 7
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76626dc3f3a3a2350800000000000000
+      internalID: 5992666297447884391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 7
+        width: 6
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d5d434f121d9d0800000000000000
+      internalID: -2751380564604497455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_67
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 6
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff059ce3cd8be20800000000000000
+      internalID: 3366682883683057470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_68
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 33
+        width: 6
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2527e361391e66c0800000000000000
+      internalID: -4148350506841463507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fronteffect3_m_69
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 0
+        width: 6
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b129601b8474981c0800000000000000
+      internalID: -4500987975046884837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

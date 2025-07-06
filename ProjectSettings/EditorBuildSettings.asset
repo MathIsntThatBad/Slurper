@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Level_1.unity
+    guid: a81c5d44e5ccfb14fa66281751ac6ea1
+  - enabled: 0
+    path: Assets/Scenes/Level_2.unity
+    guid: 04c1918b8216f69449604b9e4a726829
+  - enabled: 0
+    path: Assets/Scenes/Level_3.unity
+    guid: 004eca43d07902d41a9a50ecdb3d4ab5
+  - enabled: 0
+    path: Assets/Scenes/Level_Cave/Cave_Test.unity
+    guid: a7a07a629142b6c40bedeb8174cb5573
+  - enabled: 0
+    path: Assets/Scenes/Level_Beach/Beach_Test.unity
+    guid: cdc8f15be99d2174781a5cb1185951ff
+  - enabled: 0
+    path: Assets/Scenes/Level_Forest/Forest_Test.unity
+    guid: c5e3caedd7a04f143a521d61235d2b73
+  - enabled: 0
+    path: Assets/Scenes/Level_Forest/Forest_Test 4.unity
+    guid: c3e87f0cd40d52a4e9e7f1d01070879b
+  - enabled: 1
+    path: Assets/Scenes/MenuElements/MainMenu.unity
+    guid: dda845336ff38454bbf6cab351c79344
+  - enabled: 1
+    path: Assets/Scenes/MenuElements/LevelSelect.unity
+    guid: 9d85c2d43d5d58b49a85a64be301c9b5
+  - enabled: 1
+    path: Assets/Scenes/Level_Beach/B_1.unity
+    guid: adedc6457ffbac24288c0c8740537279
+  - enabled: 1
+    path: Assets/Scenes/Level_Beach/B_2.unity
+    guid: 4e22a17320728f9498bf295f82f20acf
+  - enabled: 1
+    path: Assets/Scenes/Level_Beach/B_3.unity
+    guid: 38e2723568b333944a080256f34fe0fe
+  - enabled: 1
+    path: Assets/Scenes/Level_Cave/C_1.unity
+    guid: 15e8042965cc47f418d04148dd9e1eb2
+  - enabled: 1
+    path: Assets/Scenes/Level_Cave/C_2.unity
+    guid: 278a1e0ebd2be6040b363fbf93c8b639
+  - enabled: 1
+    path: Assets/Scenes/Level_Cave/C_3.unity
+    guid: 4c2ac869259c15f42b70f07dc9876977
+  - enabled: 1
+    path: Assets/Scenes/Level_Forest/F_1.unity
+    guid: eed3ba0494bc2c14fbc71c2018a839bc
+  - enabled: 1
+    path: Assets/Scenes/Level_Forest/F_2.unity
+    guid: d786be050d1fd7f469076b73abedda28
+  - enabled: 1
+    path: Assets/Scenes/Level_Forest/F_3.unity
+    guid: fec8c7cda127ed74881d7509425dc49b
+  - enabled: 1
+    path: Assets/Scenes/Level_Mountain/M_1.unity
+    guid: d229820920cd23d44a5a74985d210d8b
+  - enabled: 1
+    path: Assets/Scenes/Level_Mountain/M_2.unity
+    guid: 11a4c6d124ff1f645afd37e54c1d7d04
+  - enabled: 1
+    path: Assets/Scenes/Level_Mountain/M_3.unity
+    guid: 295b11b452674ac43b795a7cf56b9342
+  - enabled: 1
+    path: Assets/Scenes/Boss/Boss.unity
+    guid: d55246afc8133734391d09dd6fd532e9
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
