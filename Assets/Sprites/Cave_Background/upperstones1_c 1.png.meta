@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      upperstones1_c 1_0: 6548018562952994423
+      upperstones1_c 1_1: -7067267673451270459
+      upperstones1_c 1_2: 3586095275173901667
+      upperstones1_c 1_3: -1957381850379744484
+      upperstones1_c 1_4: 412320213873496566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

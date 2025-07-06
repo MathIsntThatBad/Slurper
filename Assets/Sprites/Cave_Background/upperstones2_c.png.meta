@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      upperstones2_c_0: 8613470760877756059
+      upperstones2_c_1: -8015351714127317744
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
