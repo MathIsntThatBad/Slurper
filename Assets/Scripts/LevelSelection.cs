@@ -18,6 +18,7 @@ public class PlayerZoneMover : MonoBehaviour
     public GameObject forest;
     public GameObject beach;
     public GameObject cave;
+    public GameObject boss;
     void Start()
     {
         // Startposition des Spielers auf der ersten Zone
@@ -109,7 +110,7 @@ public class PlayerZoneMover : MonoBehaviour
     System.Collections.IEnumerator JumpToPosition(Vector3 targetPos)
     {
         isJumping = true;
-
+        MusicManager.Instance.PlayJumpSelectorSound();
         Vector3 startPos = transform.position;
         float elapsed = 0f;
 
@@ -124,7 +125,6 @@ public class PlayerZoneMover : MonoBehaviour
 
             yield return null;
         }
-
         transform.position = targetPos;
         isJumping = false;
     }
@@ -135,22 +135,27 @@ public class PlayerZoneMover : MonoBehaviour
         switch (zoneIndex)
         {
             case 1:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("F_1");
                 MusicManager.Instance?.PlayCategoryMusic("Forest");
                 break;
             case 3:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("B_1");
                 MusicManager.Instance?.PlayCategoryMusic("Beach");
                 break;
             case 5:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("M_1");
                 MusicManager.Instance?.PlayCategoryMusic("Mountain");
                 break;
             case 7:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("C_1");
                 MusicManager.Instance?.PlayCategoryMusic("Cave");
                 break;
             case 9:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("Boss");
                 MusicManager.Instance?.PlayCategoryMusic("Boss");
                 break;
@@ -165,30 +170,42 @@ public class PlayerZoneMover : MonoBehaviour
                 beach.SetActive(false);
                 mountains.SetActive(false);
                 cave.SetActive(false);
+                boss.SetActive(false);
                 break;
             case 3:
                 forest.SetActive(false);
                 beach.SetActive(true);
                 mountains.SetActive(false);
                 cave.SetActive(false);
+                boss.SetActive(false);
                 break;
             case 5:
                 forest.SetActive(false);
                 beach.SetActive(false);
                 mountains.SetActive(true);
                 cave.SetActive(false);
+                boss.SetActive(false);
                 break;
             case 7:
                 forest.SetActive(false);
                 beach.SetActive(false);
                 mountains.SetActive(false);
                 cave.SetActive(true);
+                boss.SetActive(false);
+                break;
+            case 9:
+                forest.SetActive(false);
+                beach.SetActive(false);
+                mountains.SetActive(false);
+                cave.SetActive(false);
+                boss.SetActive(true);
                 break;
             default:
                 forest.SetActive(false);
                 beach.SetActive(false);
                 mountains.SetActive(false);
                 cave.SetActive(false);
+                boss.SetActive(false);
                 break;
         }
 
@@ -198,22 +215,27 @@ public class PlayerZoneMover : MonoBehaviour
         switch (currentZoneIndex)
         {
             case 1:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("F_1");
                 MusicManager.Instance?.PlayCategoryMusic("Forest");
                 break;
             case 3:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("B_1");
                 MusicManager.Instance?.PlayCategoryMusic("Beach");
                 break;
             case 5:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("M_1");
                 MusicManager.Instance?.PlayCategoryMusic("Cave");
                 break;
             case 7:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("C_1");
                 MusicManager.Instance?.PlayCategoryMusic("Mountain");
                 break;
             case 9:
+                MusicManager.Instance.PlayButtonPressedSound();
                 SceneManager.LoadScene("Boss");
                 MusicManager.Instance?.PlayCategoryMusic("Boss");
                 break;
@@ -221,6 +243,7 @@ public class PlayerZoneMover : MonoBehaviour
     }
     public void BackToStartScreen()
     {
+        MusicManager.Instance.PlayButtonPressedSound();
         SceneManager.LoadScene("MainMenu");
         MusicManager.Instance?.PlayCategoryMusic("Menu");
     }

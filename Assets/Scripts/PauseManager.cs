@@ -17,6 +17,7 @@ public class PauseManager : MonoBehaviour
 
     public void Resume()
     {
+        MusicManager.Instance.PlayButtonPressedSound();
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;
@@ -24,19 +25,22 @@ public class PauseManager : MonoBehaviour
 
     public void Pause()
     {
+        MusicManager.Instance.PlayButtonPressedSound();
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
     }
     public void Restart()
     {
-        Time.timeScale = 1f; // Spiel wieder starten, falls pausiert
+        MusicManager.Instance.PlayButtonPressedSound();
+        Time.timeScale = 1f; 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void LoadMainMenu()
     {
-        Time.timeScale = 1f; // Wichtig!
+        MusicManager.Instance.PlayButtonPressedSound();
+        Time.timeScale = 1f; 
         SceneManager.LoadScene("LevelSelect");
         MusicManager.Instance?.PlayCategoryMusic("Menu");
     }

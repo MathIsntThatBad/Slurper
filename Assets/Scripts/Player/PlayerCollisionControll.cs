@@ -60,7 +60,10 @@ public class PlayerCollisionControll : MonoBehaviour
             string levelName = SceneManager.GetActiveScene().name;
             if (levelName == "Boss")
             {
-                SceneManager.LoadScene("LevelSelect");
+                MusicManager.Instance.PlayCategoryMusic("AfterBoss");
+                clearUI.SetActive(true);
+                Time.timeScale = 0f;
+                //SceneManager.LoadScene("LevelSelect");
             }
             else
             {
@@ -76,6 +79,8 @@ public class PlayerCollisionControll : MonoBehaviour
                 if (levelNumber == 3)
                 {
                     clearUI.SetActive(true);
+                    Time.timeScale = 0f;
+                    //MusicManager.Instance.PlayStageCompleteSound();
                     string levelName1 = prefix + "_1";
                     float bestTime1 = GameManager.Instance.GetLevelBestTime(levelName1);
                     string text1 = $"Best Time: {bestTime1:F2} s";
@@ -101,6 +106,7 @@ public class PlayerCollisionControll : MonoBehaviour
                 }
                 else
                 {
+                    MusicManager.Instance.PlayLevelCompleteSound();
                     string newLevel = prefix + "_" + (levelNumber + 1);
                     SceneManager.LoadScene(newLevel);
                 }
@@ -125,7 +131,7 @@ public class PlayerCollisionControll : MonoBehaviour
     {
         //Dont take damage if currently invincible
         if (isInvincible) return;
-
+        MusicManager.Instance.PlayTakeDamageSound();
         currentLives--;
         UpdateHearts();
         isInvincible = true;
@@ -133,6 +139,7 @@ public class PlayerCollisionControll : MonoBehaviour
         StartCoroutine(BlinkSprite());
         if (currentLives <= 0)
         {
+            MusicManager.Instance.PlayGameOverSound();
             gameOverUI.SetActive(true);
             Time.timeScale = 0f;
         }

@@ -10,9 +10,20 @@ public class MusicManager : MonoBehaviour
     public AudioClip mountainMusic;
     public AudioClip menu;
     public AudioClip bossMusic;
-    public float volume = 0.5f;
+    public AudioClip afterBossMusic;
+    public AudioClip takeDamage;
+    public AudioClip buttonPressed;
+    public AudioClip jumpSelector;
+    public AudioClip gameOver;
+    public AudioClip coinGathered;
+    public AudioClip otherGathered;
+    public AudioClip stageComplete;
+    public AudioClip levelComplete;
+    [Range(0f, 1f)] public float musicVolume = 0.5f;
+    [Range(0f, 1f)] public float sfxVolume = 0.7f;
 
-    private AudioSource audioSource;
+    private AudioSource musicSource;
+    private AudioSource sfxSource;
     private string currentCategory;
 
     void Awake()
@@ -23,69 +34,87 @@ public class MusicManager : MonoBehaviour
             Instance = this;
             DontDestroyOnLoad(gameObject); // Erhalte Objekt über Szenen hinweg
 
-            audioSource = gameObject.AddComponent<AudioSource>();
-            audioSource.loop = true;
-            audioSource.playOnAwake = false;
-            audioSource.clip = menu;
-            audioSource.volume = volume;
-            audioSource.Play();
+            musicSource = gameObject.AddComponent<AudioSource>();
+            musicSource.loop = true;
+            musicSource.ignoreListenerPause = true;
+            musicSource.playOnAwake = false;
+            musicSource.clip = menu;
+            musicSource.volume = musicVolume;
+            musicSource.Play();
+
+
+
+            // SFX-Quelle
+            sfxSource = gameObject.AddComponent<AudioSource>();
+            sfxSource.loop = false;
+            sfxSource.playOnAwake = false;
+            sfxSource.volume = sfxVolume;
         }
         else
         {
             Destroy(gameObject); // Verhindere doppelte Instanzen
         }
     }
+    public void SetMusicVolume(float volume)
+    {
+        musicVolume = volume;
+        musicSource.volume = musicVolume;
+    }
+
+    public void SetSFXVolume(float volume)
+    {
+        sfxVolume = volume;
+        sfxSource.volume = sfxVolume;
+    }
 
     public void PlayCategoryMusic(string category)
     {
-        if (currentCategory == category) return; // Musik läuft schon
-
+        if (currentCategory == category) return;
         currentCategory = category;
+
+        AudioClip selectedClip = null;
 
         switch (category)
         {
-            case "Forest":
-                if (audioSource.clip == forestMusic && audioSource.isPlaying) return;
-                audioSource.Stop(); 
-                audioSource.clip = forestMusic;
-                break;
-            case "Beach":
-                if(audioSource.clip == beachMusic && audioSource.isPlaying) return;
-                audioSource.Stop(); 
-                audioSource.clip = beachMusic;
-                break;
-            case "Cave":
-                if(audioSource.clip == caveMusic && audioSource.isPlaying) return;
-                audioSource.Stop();
-                audioSource.clip = caveMusic;
-                break;
-            case "Mountain":
-                if(audioSource.clip == mountainMusic && audioSource.isPlaying) return;
-                audioSource.Stop(); 
-                audioSource.clip = mountainMusic;
-                break;
-            case "Menu":
-                if(audioSource.clip == menu && audioSource.isPlaying) return;
-                audioSource.Stop(); 
-                audioSource.clip = menu;
-                break;
-            case "Boss":
-                if(audioSource.clip == mountainMusic && audioSource.isPlaying) return;
-                audioSource.Stop(); 
-                audioSource.clip = mountainMusic;
-                break;
-            default:
-                audioSource.clip = null;
-                break;
+            case "Forest": selectedClip = forestMusic; break;
+            case "Beach": selectedClip = beachMusic; break;
+            case "Cave": selectedClip = caveMusic; break;
+            case "Mountain": selectedClip = mountainMusic; break;
+            case "Menu": selectedClip = menu; break;
+            case "Boss": selectedClip = bossMusic; break;
+            case "AfterBoss": selectedClip = afterBossMusic; break;
         }
 
-        if (audioSource.clip != null)
-            audioSource.Play();
+        if (selectedClip != null && musicSource.clip != selectedClip)
+        {
+            musicSource.Stop();
+            musicSource.clip = selectedClip;
+            musicSource.volume = musicVolume;
+            musicSource.Play();
+        }
     }
 
     public void StopMusic()
     {
-        audioSource.Stop();
+        musicSource.Stop();
         currentCategory = null;
     }
+    public void PlayTakeDamageSound() => PlaySFX(takeDamage);
+    public void PlayButtonPressedSound() => PlaySFX(buttonPressed);
+    public void PlayJumpSelectorSound() => PlaySFX(jumpSelector);
+    public void PlayGameOverSound() => PlaySFX(gameOver);
+    public void PlayCoinGatheredSound() => PlaySFX(coinGathered);
+    public void PlayOtherGatheredSound() => PlaySFX(otherGathered);
+    public void PlayStageCompleteSound() => PlaySFX(stageComplete);
+    public void PlayLevelCompleteSound() => PlaySFX(levelComplete);
+
+    private void PlaySFX(AudioClip clip)
+    {
+        if (clip != null)
+        {
+            sfxSource.PlayOneShot(clip, sfxVolume);
+        }
+    }
+    public float GetMusicVolume() => musicVolume;
+    public float GetSfxVolume() => sfxVolume;
 }

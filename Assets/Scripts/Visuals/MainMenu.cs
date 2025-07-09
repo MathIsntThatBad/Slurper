@@ -7,11 +7,13 @@ public class MainMenu : MonoBehaviour
 
     public void StartGame()
     {
+        MusicManager.Instance.PlayButtonPressedSound();
         SceneManager.LoadScene("LevelSelect");
     }
 
     public void ExitGame()
     {
+        MusicManager.Instance.PlayButtonPressedSound();
         Application.Quit();
         Debug.Log("Exiting"); 
     }
